@@ -16,11 +16,7 @@ GitHub Benefits
 I think I've got a lot to gain by using GitHub. Not only do I keep my projects safe and sound, 
 but I'm also boosting my deploys and getting the hang of Git for version control.
 
-What's in this repo?
 
-How to use this repo
-This is a public repo, so feel free to use it for educational purposes.
-Go ahead and explore the code, learn from it, and use it as a reference for your own projects.
 Thanks
 Thanks to everyone who's been supporting and encouraging me in my PHP learning journey. I hope this repo is helpful to you too!
 
