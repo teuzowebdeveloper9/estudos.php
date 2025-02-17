@@ -1,4 +1,4 @@
-Absolutely! Here's a translation of the previous README.md into English, keeping the same informal and friendly tone:
+
 
 README.md
 Hey there!
