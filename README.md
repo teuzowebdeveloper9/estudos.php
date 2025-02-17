@@ -26,4 +26,3 @@ Thanks to everyone who's been supporting and encouraging me in my PHP learning j
 
 
 
-Contributions
